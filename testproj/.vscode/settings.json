@@ -1,0 +1,5 @@
+{
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "python.pythonPath": "C:\\Nadar - The annoying brother\\Django rest api\\django_env\\Scripts\\python.exe"
+}
